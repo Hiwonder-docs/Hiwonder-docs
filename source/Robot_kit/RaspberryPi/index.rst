@@ -2,7 +2,11 @@ Raspberry Pi
 ==================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    Masterpi.md
 
+.. toctree::
+   :maxdepth: 2
+
+   TurboPi.md
