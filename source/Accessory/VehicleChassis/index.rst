@@ -10,4 +10,3 @@ Vehicle Chassis
    :maxdepth: 1
 
    ackerman_chassis.md
-   s.md
