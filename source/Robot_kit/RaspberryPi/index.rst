@@ -3,18 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to hiwonder-docs's documentation!
-=========================================
+Raspberry Pi
+==================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Robot Kit
-
-   Robot_kit/RaspberryPi/index
 
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Accessory
+   MasterPi/index
 
-   Accessory/VehicleChassis/index
