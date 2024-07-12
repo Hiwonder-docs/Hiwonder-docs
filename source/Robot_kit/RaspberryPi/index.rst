@@ -4,9 +4,5 @@ Raspberry Pi
 .. toctree::
    :maxdepth: 2
 
-   Masterpi.md
-
-.. toctree::
-   :maxdepth: 2
-
+   MasterPi.md
    TurboPi.md
