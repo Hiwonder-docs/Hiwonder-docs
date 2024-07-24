@@ -1,6 +1,6 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Robot Kit
+   :caption: Hiwonder Docs
 
-   Robot_kit/RaspberryPi/index
+   README.md
