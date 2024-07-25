@@ -15,12 +15,10 @@ release = 'V1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 #extensions = ['recommonmark','sphinx_markdown_tables']
-extensions = ['recommonmark','sphinx_markdown_tables']
+extensions = ['myst_parser']
 
 templates_path = ['_templates']
 exclude_patterns = []
-
-source_suffix = [".rst", ".md"]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

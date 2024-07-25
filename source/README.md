@@ -1,13 +1,16 @@
-#  Paspberry Pi
+#  Paspberry Pi 4B
 
 
-| **[Robotics for PaspberryPi 4B](./RaspberryPi/raspberrypi_4b_robotics.md)** | **[Robotics for PaspberryPi 5](./RaspberryPi/raspberrypi_5_robotics.md)** |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[Raspberry Pi Board](source/RaspberryPi/raspberry_pi_board.md)** |                                                              |
+| [Robotics](./RaspberryPi/raspberrypi_4b_robotics.md ) | [Raspberry Pi 4B Board]() |
+|-------------------------------------------------------------------------|---------------------------|
+
+#  Paspberry Pi 5
 
 
+| [Robotics](./RaspberryPi/raspberrypi_5_robotics.md ) | [Raspberry Pi 5 Board]() |
+|------------------------------------------------------|--------------------------|
 
-#  **Jetson Nano**
+#  Jetson Nano
 
 
 | **[Robotics for Jetson Nano]()** | **[Jetson Board]()** |
