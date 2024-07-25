@@ -1,4 +1,4 @@
-# Robotics for PaspberryPi 4B
+# PaspberryPi  4B board
 ---
 
 * [MasterPi](https://www.hiwonder.com)
