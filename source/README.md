@@ -1,12 +1,12 @@
 
 
-#  Paspberry Pi 4B
+#  Raspberry Pi 4B
 
 
 | [Robotics](./RaspberryPi/raspberrypi_4b_robotics.md ) | [Raspberry Pi 4B Board](https://www.hiwonder.com) |
 |-------------------------------------------------------------------------|---------------------------------------------------|
 
-#  Paspberry Pi 5
+#  Raspberry Pi 5
 
 
 | [Robotics](./RaspberryPi/raspberrypi_5_robotics.md ) | [Raspberry Pi 5 Board](https://www.hiwonder.com) |
