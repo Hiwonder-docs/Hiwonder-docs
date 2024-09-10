@@ -1,4 +1,4 @@
 # Robotics for PaspberryPi 5
 ---
 
-* [MasterPi](https://www.hiwonder.com)
+* [PuppyPi](https://puppypi.readthedocs.io/en/latest/)
