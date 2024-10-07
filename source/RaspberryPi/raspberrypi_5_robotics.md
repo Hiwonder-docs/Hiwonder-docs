@@ -4,6 +4,7 @@
 * [GoGoPi](https://docs.hiwonder.com/projects/GoGoPi/en/latest/)
 * [ArmPi mini](https://docs.hiwonder.com/projects/ArmPi_mini/en/latest/)
 * [uHandPi](https://docs.hiwonder.com/projects/uHandPi/en/latest/)
+* [MasterPi](https://docs.hiwonder.com/projects/MasterPi/en/latest/)
 * [ArmPi FPV](https://docs.hiwonder.com/projects/ArmPi_FPV/en/latest/)
 * [ArmPi Pro](https://docs.hiwonder.com/projects/ArmPi_Pro/en/latest/)
 * [TonyPi](https://docs.hiwonder.com/projects/TonyPi/en/latest/)
