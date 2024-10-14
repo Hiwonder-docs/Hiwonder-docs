@@ -10,5 +10,5 @@
 * [TonyPi](https://docs.hiwonder.com/projects/TonyPi/en/latest/)
 * [TonyPi Pro](https://docs.hiwonder.com/projects/TonyPi_Pro/en/latest/)
 * [PuppyPi](https://docs.hiwonder.com/projects/PuppyPi/en/latest/)
-* [Spider](https://docs.hiwonder.com/projects/SpiderPi/en/latest/)
+* [SpiderPi](https://docs.hiwonder.com/projects/SpiderPi/en/latest/)
 * [Spider Pro](https://docs.hiwonder.com/projects/SpiderPi_Pro/en/latest/)
