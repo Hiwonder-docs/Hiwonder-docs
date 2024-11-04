@@ -9,7 +9,7 @@
 #  Raspberry Pi 5
 
 
-| [Robotics](./RaspberryPi/raspberrypi_5_robotics.md ) | [Raspberry Pi 5 Board](https://www.hiwonder.com) |
+| [Robotics](./RaspberryPi/raspberrypi_5_robotics.md ) | [Raspberry Pi 5 Board](https://docs.hiwonder.com/projects/Raspberry-Pi5/en/latest/) |
 |------------------------------------------------------|--------------------------|
 
 #  Jetson Nano
