@@ -1,14 +1,13 @@
 
 #  Raspberry Pi 4B
 
-| [Robotics](./RaspberryPi/raspberrypi_4b_robotics.md ) | [Raspberry Pi 4B Board](https://www.hiwonder.com) |
+| [Robotics](./raspberryPi/raspberrypi_4b_robotics.md ) | [raspberry Pi 4B Board](https://www.hiwonder.com) |
 |-------------------------------------------------------------------------|---------------------------------------------------|
 
 #  Raspberry Pi 5
 
-
-| [Robotics](./RaspberryPi/raspberrypi_5_robotics.md ) | [Raspberry Pi 5 Board](https://docs.hiwonder.com/projects/Raspberry-Pi5/en/latest/) |
-|------------------------------------------------------|--------------------------|
+| [Robotics](./raspberrypi/raspberrypi_5_robotics.md ) | [Raspberry Pi 5 Board](https://www.hiwonder.com ) |
+|------------------------------------------------------|-------------------------------------------------------------------------------------|
 
 #  Jetson Nano
 
@@ -18,5 +17,5 @@
 
 #  Arduino
 
-| **[Robotics for Jetson Nano](./Arduino/index.md)** |  |
-|---------------------------------------------|---------|
+| **[Robotics for Jetson Nano](./arduino/index.md)** |  |
+|----------------------------------------------------|---------|
