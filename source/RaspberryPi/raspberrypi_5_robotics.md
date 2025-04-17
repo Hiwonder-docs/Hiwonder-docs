@@ -14,3 +14,4 @@
 * [PuppyPi](https://docs.hiwonder.com/projects/PuppyPi/en/latest/)
 * [SpiderPi](https://docs.hiwonder.com/projects/SpiderPi/en/latest/)
 * [SpiderPi Pro](https://docs.hiwonder.com/projects/SpiderPi_Pro/en/latest/)
+* [JetAutoPi](https://docs.hiwonder.com/projects/JetAutoPi/en/latest/)
