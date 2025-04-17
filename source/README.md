@@ -1,7 +1,5 @@
 
-
 #  Raspberry Pi 4B
-
 
 | [Robotics](./RaspberryPi/raspberrypi_4b_robotics.md ) | [Raspberry Pi 4B Board](https://www.hiwonder.com) |
 |-------------------------------------------------------------------------|---------------------------------------------------|
