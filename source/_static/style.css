@@ -56,25 +56,13 @@ table td{
     margin-bottom: 15px;
 }
 
-table{
-    min-width: 50%;
-}
-
 .common_img{
     display: block;
     margin: 0 auto 24px;
 }
-table.highlighttable{
-    margin: 0 auto;
-}
 .half_img{
     width:500px;
     display: block;
-    margin: 0 auto 24px;
-}
-
-table {
-    min-width: 50%;
     margin: 0 auto 24px;
 }
 
