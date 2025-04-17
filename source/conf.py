@@ -6,22 +6,33 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'hiwonder-docs'
-copyright = '2024, hiwonder'
+project = 'Hiwonder Docs'
+copyright = '2025, hiwonder'
 author = 'hiwonder'
 release = 'V1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-#extensions = ['recommonmark','sphinx_markdown_tables']
-extensions = ['myst_parser']
+extensions = ['sphinx_markdown_tables','myst_parser','sphinx_copybutton']
 
 templates_path = ['_templates']
 exclude_patterns = []
 
-# -- Options for HTML output -------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = "sphinx"  # 或者其他主题，如 'friendly', 'monokai'
+html_codeblock_linenos_style = 'table'  # 推荐的样式
+
+myst_enable_extensions = [
+    "attrs_block",
+    "colon_fence",
+    "substitution",
+]
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+html_css_files = ['style.css']
+html_js_files = ['custom.js']
+html_theme_options = {
+    'style_nav_header_background': '#f98800',
+}

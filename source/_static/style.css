@@ -1,0 +1,122 @@
+section p {
+    margin: 0 0 18px;
+}
+.caption{
+    display:none;
+}
+.wy-nav-side .wy-menu-vertical header, .wy-menu-vertical p.caption{
+    color: #f98800;
+    text-transform: unset;
+}
+.wy-nav-side .wy-menu-vertical li.toctree-l2 button.toctree-expand{
+    pointer-events:none;
+}
+.wy-nav-side .wy-side-nav-search input[type=text]{
+     border-color: #f98800;
+}
+.wy-breadcrumbs-aside a{
+    color: #f98800;
+}
+section .rst-content .admonition{
+    background: #e3e3e3;
+}
+section .rst-content .note .admonition-title{
+    color: #f98800;
+    background: #343131;
+}
+
+.step{
+    background: #e3e3e3;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 5px 0;
+}
+
+.wy-side-scroll .wy-menu-vertical .toctree-l1.current .h-current.toctree-l2>ul{
+    display:block !important;
+}
+.wy-side-scroll .wy-menu-vertical .toctree-l1.current .current.toctree-l2>ul{
+    display:none;
+}
+.wy-menu-vertical .toctree-l2.h-current>a button.toctree-expand:before{
+    content: "\f147" !important;
+}
+.wy-menu-vertical .toctree-l2.current>a button.toctree-expand:before{
+    content: "\f196";
+}
+.wy-menu-vertical li.toctree-l2.h-current li.toctree-l3>a {
+    padding: .4045em 1.618em .4045em 4.045em;
+}
+
+table td{
+    white-space: unset !important;
+}
+
+.rst-content section ol li{
+    margin-bottom: 15px;
+}
+
+table{
+    min-width: 50%;
+}
+
+.common_img{
+    display: block;
+    margin: 0 auto 24px;
+}
+table.highlighttable{
+    margin: 0 auto;
+}
+.half_img{
+    width:500px;
+    display: block;
+    margin: 0 auto 24px;
+}
+
+table {
+    min-width: 50%;
+    margin: 0 auto 24px;
+}
+
+.rst-content tt.literal, .rst-content code.literal, .highlight {
+    background: #f0f0f0;
+}
+
+.rst-content table.docutils-nobg{
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    border: 1px solid #e1e4e5;
+    margin-bottom: 24px;
+}
+
+.rst-content table.docutils-nobg th{
+    border-bottom: 1px solid #e1e4e5;
+    border-left: 1px solid #e1e4e5;
+    padding: 8px 16px;
+}
+
+.rst-content table.docutils-nobg td{
+    vertical-align: middle;
+    font-size: 90%;
+    margin: 0;
+    overflow: visible;
+    padding: 8px 16px;
+    border-bottom: 1px solid #e1e4e5;
+    border-left: 1px solid #e1e4e5;
+}
+
+@media screen and (min-width: 1400px) {
+    .wy-grid-for-nav .wy-nav-side, .wy-grid-for-nav .wy-side-nav-search, .wy-grid-for-nav .wy-menu {
+        width: 320px;
+    }
+    .wy-grid-for-nav .wy-side-scroll{
+        width: 340px;
+    }
+    .wy-grid-for-nav .wy-nav-content-wrap{
+        margin-left: 320px;
+    }
+    .wy-grid-for-nav .wy-nav-content{
+        max-width: 1080px;
+    }
+}
