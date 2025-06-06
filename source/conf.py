@@ -27,6 +27,7 @@ myst_enable_extensions = [
     "attrs_block",
     "colon_fence",
     "substitution",
+    "dollarmath",
 ]
 
 html_theme = 'sphinx_rtd_theme'

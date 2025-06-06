@@ -24,6 +24,9 @@ section .rst-content .note .admonition-title{
     color: #f98800;
     background: #343131;
 }
+.wy-grid-for-nav .wy-side-nav-search{
+    text-align: left;
+}
 .wy-grid-for-nav .wy-side-nav-search>a{
     color: #000;
 }
