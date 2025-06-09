@@ -6,7 +6,7 @@
 
 #  Jetson Nano
 
-| **[Robotics for Jetson Nano](jetson/index.html)** | **[Jetson Board](https://www.hiwonder.com)** |
+| **[Robotics](jetson/index.html)** | **[Jetson Board](https://www.hiwonder.com)** |
 |-----------------------------------------------| ------------------------------------------------------------ |
 
 
