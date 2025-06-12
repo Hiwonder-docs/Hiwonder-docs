@@ -10,12 +10,12 @@
 |-----------------------------------------------| ------------------------------------------------------------ |
 
 
-#  Arduino Series
+#  Arduino & STM32 & ESP32 Series
 
 | **[Robotics for Jetson Nano](arduino/index.html)** |  |
 |----------------------------------------------------|---------|
 
-#  Arduino & STM32 & ESP32 Series
+#  microbit  Series
 
-| **[Robotics for Jetson Nano](arduino/index.html)** |  |
+| **[Robotics for Jetson Nano](microbit/index.html)** |  |
 |----------------------------------------------------|---------|
