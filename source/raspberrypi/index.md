@@ -1,4 +1,4 @@
-# Robotics for PaspberryPi 5
+# PaspberryPi
 ---
 
 * [TonyPi & TonyPi Pro](https://docs.hiwonder.com/projects/TonyPi_Pro/en/latest/)
