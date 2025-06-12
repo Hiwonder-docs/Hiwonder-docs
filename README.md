@@ -4,9 +4,9 @@
 |-----------------------------------|-------------------------------------------------------------------------------------|
 
 
-#  Jetson Nano
+#  NVIDIA Jetson
 
-| **[Robotics for Jetson Nano](source/jetson/index.md)** | **[Jetson Board](https://www.hiwonder.com)** |
+| **[Robotics](source/jetson/index.md)** | **[Jetson Board](https://www.hiwonder.com)** |
 |-----------------------------------------------| ------------------------------------------------------------ |
 
 
