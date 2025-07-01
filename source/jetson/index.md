@@ -1,4 +1,4 @@
-# Robotics for NVIDIA Jetson
+# Jetson Series
 ---
 
 * [JetArm](https://docs.hiwonder.com/projects/JetArm/en/latest/)
