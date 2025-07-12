@@ -1,11 +1,11 @@
 #  Raspberry Pi
 
-| [Robotics](raspberrypi/index.html) | [Raspberry Pi 5 Board](https://www.hiwonder.com ) |
+| [Robotics](raspberrypi/index.html) ||
 |------------------------------------|-------------------------------------------------------------------------------------|
 
 #  Jetson Series
 
-| **[Robotics](jetson/index.html)** | **[Jetson Board](https://www.hiwonder.com)** |
+| **[Robotics](jetson/index.html)** ||
 |-----------------------------------------------| ------------------------------------------------------------ |
 
 #  Arduino & STM32 & ESP32 Series
