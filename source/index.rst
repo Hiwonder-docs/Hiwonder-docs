@@ -8,4 +8,3 @@ Hiwonder Docs
    :caption: Hiwonder Docs
 
    README.md
-   learn.md
