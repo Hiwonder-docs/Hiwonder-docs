@@ -22,3 +22,8 @@
 
 | **[Robotics](scratch/index.html)** |  |
 |------------------------------------|---------|
+
+#  Accessories
+
+| **[Sensor](accessories/index.html#sensor)** | **[Camera/Lidar](accessories/index.html#camera_lidar)** |
+|---------------------------------------------|---------------------------------------------------------|
