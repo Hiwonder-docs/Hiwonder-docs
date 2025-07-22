@@ -21,8 +21,9 @@
 * [ArmPi mini](https://docs.hiwonder.com/projects/ArmPi_mini/en/latest/)
 * [ArmPi FPV](https://docs.hiwonder.com/projects/ArmPi_FPV/en/latest/)
 * [ArmPi Pro](https://docs.hiwonder.com/projects/ArmPi_Pro/en/latest/)
-
+* [LeArm AI](https://docs.hiwonder.com/projects/LeArm_AI/en/latest/index.html)
 
 # Sensor
 
 * [WonderMV](https://docs.hiwonder.com/projects/WonderMV/en/latest/)
+* [ESP32-S3](https://docs.hiwonder.com/projects/ESP32-S3/en/latest/index.html)

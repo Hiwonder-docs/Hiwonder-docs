@@ -6,3 +6,4 @@
 * [miniArm](https://docs.hiwonder.com/projects/miniArm/en/latest/)
 * [Tonybot](https://docs.hiwonder.com/projects/Tonybot/en/latest/)
 * [MechDog](https://docs.hiwonder.com/projects/MechDog/en/latest/)
+* [LeArm AI](https://docs.hiwonder.com/projects/LeArm_AI/en/latest/index.html)
