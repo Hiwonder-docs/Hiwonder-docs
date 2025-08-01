@@ -3,6 +3,9 @@
 * [ArmPi FPV](https://docs.hiwonder.com/projects/ArmPi_FPV/en/latest/)
 * [ArmPi Pro](https://docs.hiwonder.com/projects/ArmPi_Pro/en/latest/)
 * [PuppyPi & PuppyPi Pro](https://docs.hiwonder.com/projects/PuppyPi/en/latest/)
+* [MentorPi T1](https://docs.hiwonder.com/projects/MentorPi-T1/en/latest/)
+* [MentorPi A1 & M1](https://docs.hiwonder.com/projects/MentorPi/en/latest/)
+* [JetArm](https://docs.hiwonder.com/projects/JetArm/en/latest/)
 
 #  RaspberryPi
 
