@@ -12,7 +12,8 @@
 * [MasterPi](https://docs.hiwonder.com/projects/MasterPi/en/latest/)
 * [ArmPi FPV](https://docs.hiwonder.com/projects/ArmPi_FPV/en/latest/)
 * [ArmPi Pro](https://docs.hiwonder.com/projects/ArmPi_Pro/en/latest/)
-* [MentorPi](https://docs.hiwonder.com/projects/MentorPi/en/2024-versions/)
+* [MentorPi T1](https://docs.hiwonder.com/projects/MentorPi-T1/en/latest/)
+* [MentorPi A1 & M1](https://docs.hiwonder.com/projects/MentorPi/en/latest/)
 * [TonyPi & TonyPi Pro](https://docs.hiwonder.com/projects/TonyPi_Pro/en/latest/)
 * [PuppyPi & PuppyPi Pro](https://docs.hiwonder.com/projects/PuppyPi/en/latest/)
 
@@ -25,5 +26,8 @@
 
 # Sensor
 
+* [WonderEcho](https://docs.hiwonder.com/projects/WonderEcho/en/latest/)
 * [WonderMV](https://docs.hiwonder.com/projects/WonderMV/en/latest/)
 * [ESP32-S3](https://docs.hiwonder.com/projects/ESP32-S3/en/latest/index.html)
+* [8-Channel IR Line Follower Sensor](https://docs.hiwonder.com/projects/8-ch-Line-Follower/en/latest/)
+* [Aurora930 Pro](https://docs.hiwonder.com/projects/Aurora930-Pro/en/latest/)
