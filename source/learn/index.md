@@ -5,7 +5,7 @@
 * [PuppyPi & PuppyPi Pro](https://docs.hiwonder.com/projects/PuppyPi/en/latest/)
 * [MentorPi T1](https://docs.hiwonder.com/projects/MentorPi-T1/en/latest/)
 * [MentorPi A1 & M1](https://docs.hiwonder.com/projects/MentorPi/en/latest/)
-* [JetArm](https://docs.hiwonder.com/projects/JetArm/en/jetarm-orin-nano/)
+* [JetArm & JetArm Pro](https://docs.hiwonder.com/projects/JetArm/en/jetarm-orin-nano/)
 * [JetAcker](https://docs.hiwonder.com/projects/JetAcker/en/latest/index.html)
 
 #  RaspberryPi
