@@ -6,6 +6,7 @@
 * [MentorPi T1](https://docs.hiwonder.com/projects/MentorPi-T1/en/latest/)
 * [MentorPi A1 & M1](https://docs.hiwonder.com/projects/MentorPi/en/latest/)
 * [JetArm](https://docs.hiwonder.com/projects/JetArm/en/latest/)
+* [JetAcker](https://docs.hiwonder.com/projects/JetAcker/en/latest/index.html)
 
 #  RaspberryPi
 

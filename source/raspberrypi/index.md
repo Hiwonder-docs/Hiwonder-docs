@@ -1,4 +1,4 @@
-# PaspberryPi Series
+# RaspberryPi Series
 ---
 
 * [ArmPi mini](https://docs.hiwonder.com/projects/ArmPi_mini/en/latest/)

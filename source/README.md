@@ -23,6 +23,11 @@
 | **[Robotics](scratch/index.html)** |  |
 |------------------------------------|--|
 
+# Controller
+
+| **[Servo Controller](controller/index.html#servo-controller)** | |
+|----------------------------------------------------------------|-|
+
 #  Accessories
 
 | **[Sensor](accessories/index.html#sensor)** | **[Camera/Lidar](accessories/index.html#camera_lidar)** |
