@@ -5,6 +5,8 @@
 
 * [WonderEcho](https://docs.hiwonder.com/projects/WonderEcho/en/latest/)
 * [8-Channel IR Line Follower Sensor](https://docs.hiwonder.com/projects/8-ch-Line-Follower/en/latest/)
+* [IMU Module](https://docs.hiwonder.com/projects/IMU-Module/en/latest/)
+* [GPS Module](https://docs.hiwonder.com/projects/GPS-Module/en/latest/)
 
 ### Camera/Lidar
 
