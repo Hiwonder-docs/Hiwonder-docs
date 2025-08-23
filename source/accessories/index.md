@@ -1,6 +1,10 @@
 #  Accessories
 ---
 
+### Vehicle Chassis
+
+* [Black Mecanum-Wheel Chassis](https://docs.hiwonder.com/projects/Black-Mecanum-Wheel-Chassis/en/latest/)
+
 ### Sensor
 
 * [WonderEcho](https://docs.hiwonder.com/projects/WonderEcho/en/latest/)

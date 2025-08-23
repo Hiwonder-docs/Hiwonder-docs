@@ -30,5 +30,6 @@
 
 #  Accessories
 
-| **[Sensor](source/accessories/index.md#sensor)** | **[Camera/Lidar](source/accessories/index.md#camera_lidar)** |
-|--------------------------------------------------|--------------------------------------------------------------|
+| **[Vehicle Chassis](source/accessories/index.md#vehicle-chassis)** | **[Camera/Lidar](source/accessories/index.md#camera_lidar)** |
+|----------------------------------------------------------------------|--|
+| **[Sensor](source/accessories/index.md#sensor)**                     ||
