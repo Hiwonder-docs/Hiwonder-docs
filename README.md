@@ -1,7 +1,7 @@
 #  Raspberry Pi
 
-| [**Robotics**](source/raspberrypi/index.md ) | |
-|----------------------------------------------|-|
+| [Robotics](source/raspberrypi/index.md#robotics) | [Board](source/raspberrypi/index.md#board) |
+|----------------------------------------------|------------------|
 
 #  Jetson Series
 

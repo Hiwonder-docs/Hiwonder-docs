@@ -1,7 +1,7 @@
 #  Raspberry Pi
 
-| [Robotics](raspberrypi/index.html) | |
-|------------------------------------|-|
+| [Robotics](raspberrypi/index.html#robotics) | [Board](raspberrypi/index.html#board) |
+|---------------------------------------------|---------------------------------------|
 
 #  Jetson Series
 
