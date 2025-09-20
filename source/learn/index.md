@@ -21,15 +21,20 @@
 * [ArmPi Pro](https://docs.hiwonder.com/projects/ArmPi_Pro/en/latest/)
 * [MentorPi T1](https://docs.hiwonder.com/projects/MentorPi-T1/en/latest/)
 * [MentorPi A1 & M1](https://docs.hiwonder.com/projects/MentorPi/en/latest/)
+* [SpiderPi](https://docs.hiwonder.com/projects/SpiderPi/en/latest/)
+* [SpiderPi Pro](https://docs.hiwonder.com/projects/SpiderPi_Pro/en/latest/)
 * [TonyPi & TonyPi Pro](https://docs.hiwonder.com/projects/TonyPi_Pro/en/latest/)
 * [PuppyPi & PuppyPi Pro](https://docs.hiwonder.com/projects/PuppyPi/en/latest/)
 
 #  Robotic Arm
 
+* [miniArm](https://docs.hiwonder.com/projects/miniArm/en/latest/)
+* [MaxArm](https://docs.hiwonder.com/projects/MaxArm/en/latest/)
+* [LeArm AI](https://docs.hiwonder.com/projects/LeArm_AI/en/latest/index.html)
 * [ArmPi mini](https://docs.hiwonder.com/projects/ArmPi_mini/en/latest/)
 * [ArmPi FPV](https://docs.hiwonder.com/projects/ArmPi_FPV/en/latest/)
 * [ArmPi Pro](https://docs.hiwonder.com/projects/ArmPi_Pro/en/latest/)
-* [LeArm AI](https://docs.hiwonder.com/projects/LeArm_AI/en/latest/index.html)
+* [JetArm & JetArm Pro](https://docs.hiwonder.com/projects/JetArm/en/jetarm-orin-nano/)
 
 # Sensor
 

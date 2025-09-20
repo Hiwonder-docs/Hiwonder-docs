@@ -9,6 +9,8 @@
 * [ArmPi Pro](https://docs.hiwonder.com/projects/ArmPi_Pro/en/latest/)
 * [MentorPi T1](https://docs.hiwonder.com/projects/MentorPi-T1/en/latest/)
 * [MentorPi A1 & M1](https://docs.hiwonder.com/projects/MentorPi/en/latest/)
+* [SpiderPi](https://docs.hiwonder.com/projects/SpiderPi/en/latest/)
+* [SpiderPi Pro](https://docs.hiwonder.com/projects/SpiderPi_Pro/en/latest/)
 * [TonyPi & TonyPi Pro](https://docs.hiwonder.com/projects/TonyPi_Pro/en/latest/)
 * [PuppyPi & PuppyPi Pro](https://docs.hiwonder.com/projects/PuppyPi/en/latest/)
 
