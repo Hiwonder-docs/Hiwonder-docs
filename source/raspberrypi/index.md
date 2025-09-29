@@ -19,3 +19,4 @@
 ---
 
 * [Raspberry Pi 5 Controller](https://wiki.hiwonder.com/projects/Raspberry-Pi-5-Controller/en/latest/)
+* [Raspberry Pi 5 Expansion Board](https://wiki.hiwonder.com/projects/Raspberry-Pi-5-Expansion-Board/en/latest/)

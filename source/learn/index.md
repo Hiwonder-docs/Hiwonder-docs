@@ -13,6 +13,8 @@
 
 #  RaspberryPi
 
+* [Raspberry Pi 5 Controller](https://wiki.hiwonder.com/projects/Raspberry-Pi-5-Controller/en/latest/)
+* [Raspberry Pi 5 Expansion Board](https://wiki.hiwonder.com/projects/Raspberry-Pi-5-Expansion-Board/en/latest)
 * [ArmPi mini](https://docs.hiwonder.com/projects/ArmPi_mini/en/latest/)
 * [uHandPi](https://docs.hiwonder.com/projects/uHandPi/en/latest/)
 * [TurboPi](https://docs.hiwonder.com/projects/TurboPi/en/advanced/)
