@@ -8,7 +8,7 @@
 | **[Robotics](jetson/index.html)** | |
 |-----------------------------------|-|
 
-#  Arduino & STM32 & ESP32 Series
+#  ESP32 & Arduino Series
 
 | **[Robotics](arduino/index.html)** |  |
 |------------------------------------|--|
