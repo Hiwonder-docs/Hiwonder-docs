@@ -199,7 +199,7 @@
     <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom:50px;">
         <div style="width: calc(18% - 15px); min-width: 150px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
             <a href="https://wiki.hiwonder.com/projects/Jetson-Orin-Nano/en/latest/" style="display: block; text-decoration: none;">
-                <img src="./_static/images/raspberry_pi/Jetson_Orin_Nano.png" alt="图片1" style="width: 100%; height: auto; display: block;">
+                <img src="./_static/images/jetson/Jetson_Orin_Nano.png" alt="图片1" style="width: 100%; height: auto; display: block;">
                 <div style="padding: 12px 4px; text-align: center; color: #333;">
                     <span>Jetson Orin Nano</span>
                 </div>
@@ -395,7 +395,7 @@
         </div>
         <div style="width: calc(18% - 15px); min-width: 150px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
             <a href="https://wiki.hiwonder.com/projects/Jetson-Orin-Nano/en/latest/" style="display: block; text-decoration: none;">
-                <img src="./_static/images/raspberry_pi/Jetson_Orin_Nano.png" alt="图片1" style="width: 100%; height: auto; display: block;">
+                <img src="./_static/images/jetson/Jetson_Orin_Nano.png" alt="图片1" style="width: 100%; height: auto; display: block;">
                 <div style="padding: 12px 4px; text-align: center; color: #333;">
                     <span>Jetson Orin Nano</span>
                 </div>
@@ -538,22 +538,6 @@
             </a>
         </div>
         <div style="width: calc(18% - 15px); min-width: 150px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <a href="https://wiki.hiwonder.com/projects/GPS-Module/en/latest/" style="display: block; text-decoration: none;">
-                <img src="./_static/images/accessories/GPS_Module.png" alt="图片1" style="width: 100%; height: auto; display: block;">
-                <div style="padding: 12px 4px; text-align: center; color: #333;">
-                    <span>GPS Module</span>
-                </div>
-            </a>
-        </div>
-        <div style="width: calc(18% - 15px); min-width: 150px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <a href="https://wiki.hiwonder.com/projects/Raindrop-Sensor/en/latest/" style="display: block; text-decoration: none;">
-                <img src="./_static/images/accessories/Raindrop_Sensor.png" alt="图片1" style="width: 100%; height: auto; display: block;">
-                <div style="padding: 12px 4px; text-align: center; color: #333;">
-                    <span>Raindrop Sensor</span>
-                </div>
-            </a>
-        </div>
-        <div style="width: calc(18% - 15px); min-width: 150px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
             <a href="https://wiki.hiwonder.com/projects/Raindrop-Sensor/en/latest/" style="display: block; text-decoration: none;">
                 <img src="./_static/images/accessories/Raindrop_Sensor.png" alt="图片1" style="width: 100%; height: auto; display: block;">
                 <div style="padding: 12px 4px; text-align: center; color: #333;">
@@ -614,14 +598,6 @@
                 <img src="./_static/images/accessories/Digital_Tube_Module.png" alt="图片1" style="width: 100%; height: auto; display: block;">
                 <div style="padding: 12px 4px; text-align: center; color: #333;">
                     <span>Digital Tube Module</span>
-                </div>
-            </a>
-        </div>
-        <div style="width: calc(18% - 15px); min-width: 150px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <a href="https://wiki.hiwonder.com/projects/Fan-Module-White/en/latest/" style="display: block; text-decoration: none;">
-                <img src="./_static/images/accessories/Fan_Module_White.png" alt="图片1" style="width: 100%; height: auto; display: block;">
-                <div style="padding: 12px 4px; text-align: center; color: #333;">
-                    <span>Fan Module White</span>
                 </div>
             </a>
         </div>
