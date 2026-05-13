@@ -152,7 +152,7 @@
     <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom:50px;">
         <div style="width: calc(18% - 15px); min-width: 150px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
             <a target="_blank" href="https://wiki.hiwonder.com/projects/rosorin-pro/en/latest/" style="display: block; text-decoration: none;">
-                <img src="./_static/images/jetson/ROSPug.png" alt="图片1" style="width: 100%; height: auto; display: block;">
+                <img src="./_static/images/jetson/ROSOrin_Pro.png" alt="图片1" style="width: 100%; height: auto; display: block;">
                 <div style="padding: 12px 4px; text-align: center; color: #333;">
                     <span>ROSOrin Pro</span>
                 </div>
