@@ -1,4 +1,6 @@
-#  Hiwonder Docs
+```{title} Hiwonder Docs
+```
+
 #  Raspberry Pi
 
 ## Robotics
