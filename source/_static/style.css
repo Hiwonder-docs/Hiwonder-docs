@@ -1,3 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+.document {
+    font-family: Montserrat, sans-serif;
+}
+
+.wy-nav-side .wy-menu-vertical,
+.wy-nav-side .wy-menu-vertical a {
+    font-family: Montserrat, sans-serif !important;
+}
+
 section p {
     margin: 0 0 18px;
 }
